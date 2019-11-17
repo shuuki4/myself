@@ -25,6 +25,9 @@
     {% endif %}
     <div class="publication-authors">{{ publication.authors }}</div>
     <div class="publication-conference">{{ publication.conference }}</div>
+    {% if publication.description %}
+    <div class="publicattion-description"> {{ publication.description }} </div>
+    {% endif %}
   </div><!--//item-->
   {% endfor %}
 
