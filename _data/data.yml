@@ -60,7 +60,7 @@ experiences:
       time: 2019.1 - Present
       company: Hyperconnect, Seoul
       details: |
-        Worked on various ML-related tasks, including but not limited to:
+        Worked on various machine learning related tasks, including but not limited to:
           - Few-shot face reenactment
           - Text classification
           - SIMD/Assembly-level optimization of low-bit neural networks
