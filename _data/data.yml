@@ -69,10 +69,13 @@ experiences:
       time: 2017.3 - 2018.12
       company: Scatter Lab, Seoul
       details: |
-        Developed models for open-domain conversation solution <i>Pingpong</i>,
-        including but not limited to: Retrieval-based chatbot, Generic response generation
-        via Text/Conversation classification, Text generation, etc.
-        Also worked as a tech lead for machine learning team.
+        Worked as a tech lead for machine learning team, developing machine learning models
+        for open-domain conversation solution <i>Pingpong</i>.
+        Developed several models including but not limited to:
+        - Retrieval-based chatbot
+        - Generic response generation via Text/Conversation classification
+        - Semantic text similarity
+        - Text generation
     - role: Undergraduate Research Intern
       time: 2016.12 - 2017.3
       company: Vision & Learning Lab, Seoul National University
