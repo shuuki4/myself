@@ -100,7 +100,7 @@ projects:
 publications:
     title: Publications
     papers:
-      - title: "MarioNETte: Few-shot Face Reenactment Preserving Identity of Unseen Targets"
+      - title: "Distilling the Knowledge of Large-scale Generative Models into Retrieval Models for Efficient Open-domain Conversation"
         link: "https://arxiv.org/abs/2108.12582"
         authors: "<b>Beomsu Kim<sup>*</sup></b>, Seokjun Seo<sup>*</sup>, Seungju Han<sup>*</sup>, Enkhbayar Enkhee<sup>*</sup>, Buru Chang."
         conference: EMNLP 2021 (Findings)
@@ -109,7 +109,7 @@ publications:
         link: "https://hyperconnect.github.io/MarioNETte/"
         authors: "Sungjoo Ha<sup>*</sup>, Martin Kersner<sup>*</sup>, <b>Beomsu Kim<sup>*</sup></b>, Seokjun Seo<sup>*</sup>, Dongyoung Kim."
         conference: AAAI 2020
-        description: "<sup>*</sup> denotes for equal contribution in alphabetical order. I've suggested the idea for the main components of the model, furthermore implemented & experimented with them and wrote the initial version of the paper outline."
+        description: "<sup>*</sup> denotes for equal contribution in alphabetical order. I've suggested the idea for the main components of the model, furthermore implemented & experimented with them and wrote various parts of the paper."
       - title: "Improving Occlusion and Hard Negative Handling for Single-Stage Pedestrian Detectors"
         link: "http://vision.snu.ac.kr/project_pages/cvpr18_noh/views/"
         authors: "Junhyug Noh, Soochan Lee, <b>Beomsu Kim</b>, Gunhee Kim."
