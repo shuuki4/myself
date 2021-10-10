@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: 123bskim@naver.com
+    email: 123bskim@gmail.com
 
     website: shuuki4.github.io #do not add http://
     linkedin: beomsu-kim
@@ -35,10 +35,13 @@ sidebar:
         level: Conversational
 
     interests:
-      - item: Travel
+      - item: Playing Piano 🎹
         link:
-
-      - item: Games
+      - item: Classical Music 🎼
+        link:
+      - item: Travel 🌎
+        link:
+      - item: Wine 🍷
         link:
 
 
@@ -61,10 +64,11 @@ experiences:
       company: Hyperconnect, Seoul
       details: |
         Worked on various machine learning related tasks, including but not limited to:
+          - Open-domain Conversation Chatbot
+          - Recommender system
           - Few-shot face reenactment
           - Text classification
           - SIMD/Assembly-level optimization of low-bit neural networks
-          - Recommender system
     - role: Machine Learning Team Tech Lead & Machine Learning Engineer
       time: 2017.3 - 2018.12
       company: Scatter Lab, Seoul
@@ -97,11 +101,15 @@ publications:
     title: Publications
     papers:
       - title: "MarioNETte: Few-shot Face Reenactment Preserving Identity of Unseen Targets"
+        link: "https://arxiv.org/abs/2108.12582"
+        authors: "<b>Beomsu Kim<sup>*</sup></b>, Seokjun Seo<sup>*</sup>, Seungju Han<sup>*</sup>, Enkhbayar Enkhee<sup>*</sup>, Buru Chang."
+        conference: EMNLP 2021 (Findings)
+        description: "<sup>*</sup> denotes for equal contribution. I've suggested the idea for the main components of the model, furthermore implemented & experimented with them while writing the most of the parts in the paper."
+      - title: "MarioNETte: Few-shot Face Reenactment Preserving Identity of Unseen Targets"
         link: "https://hyperconnect.github.io/MarioNETte/"
         authors: "Sungjoo Ha<sup>*</sup>, Martin Kersner<sup>*</sup>, <b>Beomsu Kim<sup>*</sup></b>, Seokjun Seo<sup>*</sup>, Dongyoung Kim."
         conference: AAAI 2020
-        description: "<sup>*</sup> denotes for equal contribution. I've suggested the idea for the main components of the model, furthermore implemented & experimented with them."
-
+        description: "<sup>*</sup> denotes for equal contribution in alphabetical order. I've suggested the idea for the main components of the model, furthermore implemented & experimented with them and wrote the initial version of the paper outline."
       - title: "Improving Occlusion and Hard Negative Handling for Single-Stage Pedestrian Detectors"
         link: "http://vision.snu.ac.kr/project_pages/cvpr18_noh/views/"
         authors: "Junhyug Noh, Soochan Lee, <b>Beomsu Kim</b>, Gunhee Kim."
