@@ -98,18 +98,26 @@ projects:
         tagline: "Post-enrollment & Student sectioning timetable generation problem for Gyeonggi Science High School."
 
 publications:
-    title: Publications
+    title: Selected Publications
     papers:
       - title: "Distilling the Knowledge of Large-scale Generative Models into Retrieval Models for Efficient Open-domain Conversation"
         link: "https://arxiv.org/abs/2108.12582"
         authors: "<b>Beomsu Kim<sup>*</sup></b>, Seokjun Seo<sup>*</sup>, Seungju Han<sup>*</sup>, Enkhbayar Enkhee<sup>*</sup>, Buru Chang."
         conference: EMNLP 2021 (Findings)
-        description: "<sup>*</sup> denotes for equal contribution. I've suggested the idea for the main components of the model, furthermore implemented & experimented with them while writing the most of the parts in the paper."
+        description: "<sup>*</sup> denotes for equal contribution."
+      - title: "Understanding and Improving the Exemplar-based Generation for Open-domain Generation"
+        link: "https://arxiv.org/abs/2112.06723"
+        authors: "Seungju Han<sup>*</sup>, <b>Beomsu Kim<sup>*</sup></b>, Seokjun Seo<sup>*</sup>, Enkhbayar Enkhee<sup>*</sup>, Buru Chang."
+        conference: Arxiv 2021
+        description: "<sup>*</sup> denotes for equal contribution."
+      - title: "Embedding Normalization: Significance Preserving Feature Normalization for Click-Through Rate Prediction"
+        authors: "Joonyoung Yi, <b>Beomsu Kim</b>, Buru Chang."
+        conference: ICDM NeuRec 2021, Best Paper Award
       - title: "MarioNETte: Few-shot Face Reenactment Preserving Identity of Unseen Targets"
         link: "https://hyperconnect.github.io/MarioNETte/"
         authors: "Sungjoo Ha<sup>*</sup>, Martin Kersner<sup>*</sup>, <b>Beomsu Kim<sup>*</sup></b>, Seokjun Seo<sup>*</sup>, Dongyoung Kim."
         conference: AAAI 2020
-        description: "<sup>*</sup> denotes for equal contribution in alphabetical order. I've suggested the idea for the main components of the model, furthermore implemented & experimented with them and wrote various parts of the paper."
+        description: "<sup>*</sup> denotes for equal contribution in alphabetical order."
       - title: "Improving Occlusion and Hard Negative Handling for Single-Stage Pedestrian Detectors"
         link: "http://vision.snu.ac.kr/project_pages/cvpr18_noh/views/"
         authors: "Junhyug Noh, Soochan Lee, <b>Beomsu Kim</b>, Gunhee Kim."
