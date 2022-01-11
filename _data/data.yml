@@ -53,7 +53,7 @@ career-profile:
       Natural language processing, and Generative models.
 education:
     - degree: BS in Computer Science and Engineering
-      university: "Seoul National University\nGPA: 4.26 / 4.3 (Major GPA 4.28 / 4.3)"
+      university: "Seoul National University<br>GPA: 4.26 / 4.3 (Major GPA 4.28 / 4.3)"
       time: 2014 - 2022
     - degree: High school
       university: Gyeonggi Science High School
